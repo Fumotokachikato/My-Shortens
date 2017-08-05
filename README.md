@@ -1,0 +1,2 @@
+# My-Shortens
+safelink.js
